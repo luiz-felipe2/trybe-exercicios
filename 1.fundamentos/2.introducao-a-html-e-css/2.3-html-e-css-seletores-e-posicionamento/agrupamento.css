@@ -1,0 +1,16 @@
+.bloco1 {
+   margin: 0 auto;
+   width: fit-content; 
+}
+
+.bloco2 {
+   margin: 0 auto;
+   width: fit-content;
+}
+.bloco2 ol span:hover {
+    background-color: aqua;
+    
+}
+.bloco2 ol span:active {
+    font-style: italic;
+}
